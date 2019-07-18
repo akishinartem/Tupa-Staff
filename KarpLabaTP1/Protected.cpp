@@ -1,4 +1,5 @@
 #include "Protected.h"
+
 #include <iostream>
 using namespace std;
 
@@ -88,7 +89,7 @@ void Protected::Copy(Protected& op1) {
 	delete[] Arr;
 }
 
-//	œŒ◊≈—¿“‹ œŒ–¿«Ã»Õ¿“‹
+//	√è√é√ó√Ö√ë√Ä√í√ú √è√é√ê√Ä√á√å√à√ç√Ä√í√ú
 void Protected::Calc() {
 	float harm = 0;
 	float del = 0;
