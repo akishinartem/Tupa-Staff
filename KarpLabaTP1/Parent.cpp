@@ -1,4 +1,5 @@
 #include "Parent.h"
+
 #include <iostream>
 using namespace std;
 
@@ -88,7 +89,7 @@ void Parent::Copy(Parent &op1) {
 	delete[] Arr;
 }
 
-//	œŒ◊≈—¿“‹ œŒ–¿«Ã»Õ¿“‹
+//	√è√é√ó√Ö√ë√Ä√í√ú √è√é√ê√Ä√á√å√à√ç√Ä√í√ú
 void Parent::Calc() {
 	float harm = 0;
 	float del = 0;
