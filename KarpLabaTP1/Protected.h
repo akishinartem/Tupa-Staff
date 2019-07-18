@@ -1,4 +1,5 @@
 #pragma once
+
 #include "Parent.h"
 
 class Protected : protected Parent {
