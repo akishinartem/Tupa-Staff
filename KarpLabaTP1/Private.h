@@ -1,4 +1,5 @@
 #pragma once
+
 #include "Parent.h"
 
 class Private : private Parent {
